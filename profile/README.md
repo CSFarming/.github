@@ -26,7 +26,7 @@
 - 현재 RIBs 아키텍처를 이용해 개발하고 있어요
 - 아래 기술 스택에 관심 있으신 분은 편한 방식으로 연락 주세요! (깃허브 이슈, 메일 상관 없습니다 - hogumachu@gmail.com)
 
-#### 기술 스택 
+#### 기술 스택
+- UIKit, SwiftUI (SwiftUI 는 부분적으로 사용하고 있어요)
 - RxSwift, RIBs
-- UIKit, SwiftUI
 - XCTest, Quick, Nimble
