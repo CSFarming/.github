@@ -13,12 +13,12 @@
 
 ## CS 파밍의 특별한 점
 - CS 파밍은 서버 없이 온전히 깃허브 리포지토리로 동작하도록 만들었어요
-- 각 리포지토리가 하나의 데이터베이스로 만들었어요
+- 각 리포지토리가 하나의 데이터베이스처럼 사용하도록 만들었어요
 
 ![image](https://github.com/CSFarming/.github/assets/74225754/c10f76a7-5540-44d4-a38d-d9c9dd141aff)
 
 ## 함께하기
-- 언제든 열려있어요!
+- 언제든 열려있어요! 편하게 이슈 남겨주세요!
 - [학습 자료 리포지토리](https://github.com/CSFarming/CSFarming-Archive)
 - [문제 자료 리포지토리](https://github.com/CSFarming/CSFarming-Problem-Archive)
 
